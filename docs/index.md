@@ -30,11 +30,4 @@ HMDSA's lightweight, low overhead mechanisms enable high fidelity (e.g. sub-seco
 Operate all platforms in the same way, independent of site and vendor, using HMDSA's platform independent architecture. Site-specific data sources, storage, analysis, and dashboards can be used within or beside HDMSA capabilities using HDMSA's flexible and scalable API's and transports.
 
 
-## Team ##
-UIUC/NCSA - names
-
-SNL - names
-
-### Collaborators ###
-NMSU, BU, UCF
 
