@@ -31,6 +31,7 @@ navbar-links:
   Architecture: "pages/arch.html"
   Analysis: "pages/analysis.html"
   Tools: "pages/tools.html"
+  Documentation: "pages/docs.html"
   About Us: "pages/aboutus.html"
   Contact: "pages/contact.html"
   
