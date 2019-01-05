@@ -22,7 +22,7 @@ HMDSA's architecture and analysis capabilities are exascale-ready, having been d
 
 **Unprecedented insights into system and application conditions**
 
-HMDSA analysis provide high resolution extraction and classification of phenomena with respect to locality, severity, and temporal extent. HMDSA high-fidelity data enables insights into phenomena occurring on timescales unresolvable by traditional monitoring capabilities.
+HMDSA analyses provide high resolution extraction and classification of phenomena with respect to locality, severity, and temporal extent. HMDSA high-fidelity data enables insights into phenomena occurring on timescales unresolvable by traditional monitoring capabilities.
 
 **Respond to system conditions at runtime**
 
