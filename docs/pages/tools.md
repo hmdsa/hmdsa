@@ -4,4 +4,5 @@ title: Tools
 subtitle: HMDSA tools
 ---
 
-To be updated
+HMDSA Tools provide a variety of capabilities:
+* Log-Diver + Baler - Event tagging and relationship discovery
