@@ -11,5 +11,5 @@ subtitle: Publications, Presentations, and Links
 * *Understanding Fault Scenarios and Impacts Through Fault Injection Experiments in Cielo*. V. Formicola, S. Jha, F. Deng, D. Chen, A. Bonnie, M. Mason, J. Brandt, A. Gentile, L. Kaplan, J. Repik, J, Enos, M. Showerman, A. Greiner, Z. Kalbarczyk, R. Iyer, and W. Kramer. Cray Users Group (CUG), May 2017.
 
 ### External Links ###
-* *The HMDR Project: Holistic, Measurement-Driven Resilience - Combining Operational Fault and Failure Measurements and Fault Injection for Quantifying Fault Detection, Propagation and Impact*
+* *[The HMDR Project: Holistic, Measurement-Driven Resilience - Combining Operational Fault and Failure Measurements and Fault Injection for Quantifying Fault Detection, Propagation and Impact](http://portal.nersc.gov/project/m888/resilience/)*
 * Lightweight Distributed Metric Service (LDMS)
