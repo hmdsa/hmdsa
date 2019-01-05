@@ -13,6 +13,7 @@ subtitle: Publications, Presentations, and Links
 ### External Links ###
 * *[The HMDR Project: Holistic, Measurement-Driven Resilience - Combining Operational Fault and Failure Measurements and Fault Injection for Quantifying Fault Detection, Propagation and Impact](http://portal.nersc.gov/project/m888/resilience/)*
 * *[Lightweight Distributed Metric Service (LDMS)](https://github.com/ovis-hpc/ovis)* - open source download and documentation
+* *[Monitoring and Analysis of HPC Systems Plus Applications (HPCMASPA) Workshop Series](https://sites.google.com/site/hpcmaspa/)*
 
 ### References ###
 *references used in this site*
