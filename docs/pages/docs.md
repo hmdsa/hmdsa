@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-subtitle: How to find me?
+title: Documentation
+subtitle: Publications, Presentations, and Links
 ---
 
 To be updated
