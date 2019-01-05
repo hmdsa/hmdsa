@@ -14,6 +14,8 @@ Taking a holistic approach to maximizing application performance and science thr
 
 ## HMDSA Features ##
 
+HMDSA provides unique capabilities for run-time system assessment and for transforming those insights into actionable knowledge. Features of HDMSA which make is unprecendented among operational and monitoring systems are:
+
 #### Exascale-ready! ####
 HMDSA's architecture and analysis capabilities are exascale-ready, having been demonstrated in production on current large-scale platforms up to 1/4 size of anticipated exascale platforms. Analysis on full-system, long-term data sets have demonstrated computation times ofa few minutes for the most complex full-system analysis down to sub-second for point-in-timeanalysis on runtime data. Storage and retrieval have been demonstrated in support of analysis on several continuous years of full system data.
 
