@@ -1,2 +1,0 @@
-# hmdsa
-Main hmdsa repository
