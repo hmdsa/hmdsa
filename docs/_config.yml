@@ -33,7 +33,7 @@ navbar-links:
   Tools: "pages/tools.html"
   Documentation: "pages/docs.html"
   About Us: "pages/aboutus.html"
-  Contact: "pages/contact.html"
+#  Contact: "pages/contact.html"
   
 # --- Footer options --- #
 
