@@ -10,8 +10,9 @@ gh-badge: [star, watch, follow]
 Taking a holistic approach to maximizing application performance and science throughput on any-scale HPC systems through: 1) monitoring of all performance impacting information with flexible frameworks for fidelity and collection periods without inducing application or system overhead, 2) developing scalable storage, retrieval, and run-time analytics to provide identification of performance impacting behaviors, 3) developing right latency feedback and mitigation strategies and mechanisms targeting applications, system software, and hardware, and users.
 
 ## HMDSA Analysis Insights ##
-*Question Figures from the poster here (Saurabh)*
-
+![Image of disecting between system and application issues ](pages/resources/figs/q1-2.jpg){:width="720px"}{: .center-image}
+![Image of determining architectural requirements through data-analysis](pages/resources/figs/q3.jpg){:width="720px"}{: .center-image}
+![Image of quality of service improvement](pages/resources/figs/q4.jpg){:width="720px"}{: .center-image}
 ## HMDSA Features ##
 
 HMDSA provides unique capabilities for run-time system assessment and for transforming those insights into actionable knowledge. Features of HDMSA which make is unprecendented among operational and monitoring systems are:

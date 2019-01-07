@@ -3,7 +3,7 @@ layout: page
 title: Architecture
 subtitle: HMDSA Design and Architecture
 ---
-
+![Image of HMDSA arch](resources/figs/hmdsa-arch.jpg){:width="720px"}{: .center-image}
 #### Architectural Features: ####
 * Platform independent infrastructure for common operations across facilities
 * Scalable - Demonstrated in production over 4 years up to 27K nodes.
@@ -18,4 +18,4 @@ subtitle: HMDSA Design and Architecture
 * LogDiver+Baler - event tagging and relationship discovery
 * A variety of analysis tools including ML/AI based tools for identification
 
-
+![Image of ML-arch](resources/figs/ml.jpg){:width="720px"}{: .center-image}
