@@ -6,8 +6,7 @@ gh-badge: [star, watch, follow]
 ---
 
 ## About ## 
-*(Jim)*
-Taking a holistic approach to maximizing application performance and science throughput on any-scale HPC systems through: 1) monitoring of all performance impacting information with flexible frameworks for fidelity and collection periods without inducing application or system overhead, 2) developing scalable storage, retrieval, and run-time analytics to provide identification of performance impacting behaviors, 3) developing right latency feedback and mitigation strategies and mechanisms targeting applications, system software, and hardware, and users.
+The goal of the Holistic Measurement Driven System Assessment (HMDSA) project is to enable maximum science production within the constraints of budget (monitary, space, power) for any large-scale HPC facility independent of major component vendor. We seek to do this by development and deployment of scalable, platform independent, open-source tools and techniques for monitoring coupled with runtime analysis and feedback to enable highly efficient HPC system operation and usage and also inform future system improvements. To guide tool development we take a holistic approach through: 1) monitoring of all performance impacting information (e.g., atmospheric conditions, physical plant, HPC system components) with flexible frameworks for variable fidelity data collection to minimize application and/or system overhead, 2) developing scalable storage, retrieval, and run-time analytics to provide identification of performance impacting behaviors, 3) developing feedback and problem (e.g., faults, resource depletion, contention) mitigation strategies and mechanisms targeting applications, system software, and hardware, and users.
 
 ## HMDSA Analysis Insights ##
 ![Image of disecting between system and application issues ](pages/resources/figs/q1-2.jpg){:width="720px"}{: .center-image}
