@@ -22,6 +22,7 @@ J. Fullop, and G. Bauer. Workshop on Monitoring and Analysis for High Performanc
 * *Analysis of Gemini Interconnect Recovery Mechanisms: Methods and Observations*. S. Jha, V. Formicola, C. Di Martino, Z. Kalbarczyk, W. Kramer, and R. Iyer. Cray User’s Group (CUG), Apr 2016.
 * *Logdiver: A tool for measuring resilience of extreme-scale systems and applications*. Martino, Catello Di, Saurabh Jha, William Kramer, Zbigniew Kalbarczyk, and Ravishankar K. Iyer. " In Proceedings of the 5th Workshop on Fault Tolerance for HPC at eXtreme Scale, pp. 11-18. ACM, 2015.
 * *Measuring and understanding extreme-scale application resilience: A field study of 5,000,000 HPC application runs*.  Di Martino, Catello, William Kramer, Zbigniew Kalbarczyk, and Ravishankar Iyer. In Dependable Systems and Networks (DSN), 2015 45th Annual IEEE/IFIP International Conference on, pp. 25-36. IEEE, 2015.
+* *[Lightweight Distributed Metric Service: A Scalable Infrastructure for Continuous Monitoring of Large Scale Computing Systems and Applications](https://ovis.ca.sandia.gov/index.php/Publications_and_presentations)*. A. Agelastos, B. Allan, J. Brandt, P. Cassella, J. Enos, J. Fullop, A. Gentile, S. Monk, N. Naksinehaboon, J. Ogden, M. Rajan, M. Showerman, J. Stevenson, N. Taerat, and T. Tucker, IEEE/ACM Int'l. Conf. for High Performance Storage, Networking, and Analysis (SC14) Nov 2014.
 * *It Takes a Village: Monitoring the Blue Waters Supercomputer*. B. D. Semeraro, Robert Sisneros, Joshi Fullop, and Gregory H. Bauer. 2014 IEEE International Conference on Cluster Computing (CLUSTER), pp 392-399, 2014, doi:10.1109/cluster.2014.6968671
 * *Lessons Learned From the Analysis of System Failures at Petascale: The Case of Blue Waters* Di Martino, Catello, F. Baccanico, W. Kramer, J. Fullop, J, Z Kalbarczyk, and R Iyer. The 44th Annual IEEE/IFIP International Conference on Dependable
 Systems and Networks (DSN 2014), Jun 2014
@@ -36,11 +37,6 @@ doi:10.1145/2038633.2038637
 doi:10.1145/2063384.2063444
 * *Event log mining tool for large scale HPC systems*. Gainaru Anna, Franck Cappello, Bill Kramer. Proceedings of Europar
 2011, Aug-Sep 2011. 
-
-
-
-
-* *[Lightweight Distributed Metric Service: A Scalable Infrastructure for Continuous Monitoring of Large Scale Computing Systems and Applications](https://ovis.ca.sandia.gov/index.php/Publications_and_presentations)*. A. Agelastos, B. Allan, J. Brandt, P. Cassella, J. Enos, J. Fullop, A. Gentile, S. Monk, N. Naksinehaboon, J. Ogden, M. Rajan, M. Showerman, J. Stevenson, N. Taerat, and T. Tucker, IEEE/ACM Int'l. Conf. for High Performance Storage, Networking, and Analysis (SC14) Nov 2014.
 * *[An Exascale Approach to Software and Hardware Design](http://hpc.sagepub.com/content/23/4.toc)*. W. Kramer, and D. Skinner. International Journal of High Performance Computing Applications Nov 2009 23: 389-391, doi:10.1177/1094342009347768.
 * *[Consistent Application Performance at the Exascale](http://hpc.sagepub.com/content/23/4.toc)*. W. Kramer and D. Skinner. International Journal of High Performance Computing Applications November 2009 23: 392-394, doi:10.1177/1094342009347700.
 
