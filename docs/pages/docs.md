@@ -12,7 +12,7 @@ subtitle: Publications, Presentations, and Links
 * *[Failure and Resiliency in the Shadow of Extreme Scale – Will our Current Assumptions Take Us in the Right Direction?](../files/pdf/Kramer_HPCMASPA2016.pdf)* W. Kramer. Workshop on Monitoring and Analysis for HPC Systems Plus Applications (HPCMASPA) - Keynote Speaker, May 2016. 
 
 ### Related Publications ###
-* *[Supporting Failure Analysis with Discoverable, Annotated Log Datasets]*. S. Leak, A. Greiner, A. Gentile, and J. Brandt. Cray Users Group (CUG), May 2018. 
+* *Supporting Failure Analysis with Discoverable, Annotated Log Datasets*. S. Leak, A. Greiner, A. Gentile, and J. Brandt. Cray Users Group (CUG), May 2018. 
 * *[Understanding Fault Scenarios and Impacts Through Fault Injection Experiments in Cielo](http://sjha8.web.engr.illinois.edu/publication/cielo_fi/)*. V. Formicola, S. Jha, F. Deng, D. Chen, A. Bonnie, M. Mason, J. Brandt, A. Gentile, L. Kaplan, J. Repik, J, Enos, M. Showerman, A. Greiner, Z. Kalbarczyk, R. Iyer, and W. Kramer. Cray Users Group (CUG), May 2017.
 * *Large-Scale Persistent Numerical Data Source Monitoring System Experiences*. J. Brandt, A. Gentile, M. Showerman, J. Enos,
 J. Fullop, and G. Bauer. Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA) at IEEE Int'l. Parallel and Distributed Processing Symposium (IPDPS). May 2016.
