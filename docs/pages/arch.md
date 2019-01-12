@@ -23,14 +23,14 @@ subtitle: HMDSA Design and Architecture
 
 ##### Actionable Intelligence: #####
 * Assessments of System Conditions, Application Resource Utilization, and Performance provide actionable insights to be used to improve operations, performance, and system designs:
-** Notifications
-** Dashboards and Visualizations
+  * Notifications
+  * Dashboards and Visualizations
 
 ##### Feedback and Control: #####
 * Transport architecture includes flow of analysis results to humans and the system to enable action as a result of analyzed conditions. Examples include:
-** Application rebalancing based on utilization imbalances
-** System scheduler decisions based on congestion areas or application profiles
-** System administrator decision support
+  * Application rebalancing based on utilization imbalances
+  * System scheduler decisions based on congestion areas or application profiles
+  * System administrator decision support
 
 
 
