@@ -4,8 +4,10 @@ title: Documentation
 subtitle: Publications, Presentations, and Links
 ---
 
-* Contents
-{:toc}
+Contents |
+--------- | 
+* TOC |
+{:toc} |
 
 
 ### Publications and Presentations ###
