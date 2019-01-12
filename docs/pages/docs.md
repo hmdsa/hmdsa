@@ -5,7 +5,8 @@ subtitle: Publications, Presentations, and Links
 ---
 
 **Contents**
-*{:toc}
+* TOC
+{:toc}
 
 
 ### Publications and Presentations ###
