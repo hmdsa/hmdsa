@@ -27,9 +27,9 @@ HMDSA provides unique capabilities for run-time system assessment and for transf
 
 **Exascale-ready**
 
-HMDSA's architecture and analysis capabilities are exascale-ready, having been demonstrated in production on current large-scale platforms up to 1/4 size of anticipated exascale platforms. Analysis on full-system, long-term data sets have demonstrated computation times for the most complex full-system analysis (a few minutes) down to point-in-time analysis (sub-second) on runtime data. Storage and retrieval have been demonstrated in support of analysis on several continuous years of full system data.
-
 ![Image of scale vs latency](pages/resources/figs/scale-latency.jpg){:width="400px"}{: .center-image}
+
+HMDSA's architecture and analysis capabilities are exascale-ready, having been demonstrated in production on current large-scale platforms up to 1/4 size of anticipated exascale platforms. Analysis on full-system, long-term data sets have demonstrated computation times for the most complex full-system analysis (a few minutes) down to point-in-time analysis (sub-second) on runtime data. Storage and retrieval have been demonstrated in support of analysis on several continuous years of full system data.
 
 **Unprecedented insights into system and application conditions**
 
