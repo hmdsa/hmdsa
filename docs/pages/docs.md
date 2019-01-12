@@ -21,6 +21,7 @@ J. Fullop, and G. Bauer. Workshop on Monitoring and Analysis for High Performanc
 
 ### Related Links ###
 * *[The HMDR Project: Holistic, Measurement-Driven Resilience - Combining Operational Fault and Failure Measurements and Fault Injection for Quantifying Fault Detection, Propagation and Impact](http://portal.nersc.gov/project/m888/resilience/)*
+* *[BlueWaters Machine Status (Live)](https://bluewaters.ncsa.illinois.edu/machine-status)*
 * *[Lightweight Distributed Metric Service (LDMS)](https://github.com/ovis-hpc/ovis)* 
 * *[OVIS Web Site](https://ovis.ca.sandia.gov/index.php/Main_Page)*
 * *[Monitoring and Analysis of HPC Systems Plus Applications (HPCMASPA) Workshop Series](https://sites.google.com/site/hpcmaspa/)*
