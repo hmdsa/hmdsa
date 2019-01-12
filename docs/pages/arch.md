@@ -33,4 +33,4 @@ subtitle: HMDSA Design and Architecture
 ** System administrator decision support
 
 
-![Image of ML-arch](resources/figs/ml.jpg){:width="720px"}{: .center-image}
+
