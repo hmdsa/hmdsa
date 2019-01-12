@@ -28,6 +28,7 @@ description: Holistic Measurement Driven System Assessment
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
+  Insights: "pages/insights.html"
   Architecture: "pages/arch.html"
   Analysis: "pages/analysis.html"
   Tools: "pages/tools.html"
