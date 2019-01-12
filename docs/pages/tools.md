@@ -4,6 +4,11 @@ title: Tools
 subtitle: HMDSA tools
 ---
 
+------
+* TOC 
+{:toc} 
+------
+
 HMDSA Tools provide a variety of capabilities:
 
 TODO: 
