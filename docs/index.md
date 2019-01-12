@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HMDSA
+title: Holistic Measurement Driven System Assessment (HMDSA)
 subtitle: Actionable Intelligence at Any Scale
 gh-repo: hmdsa/hmdsa
 gh-badge: [star, watch, follow]
