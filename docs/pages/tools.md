@@ -31,7 +31,8 @@ Analysis Tools:
 
 Feedback and Visualization Tools:
 * C (Any additional references to dashboards, torus viewers, mike's graphs etc)
+* Integrated System Console (ISC) provides a variety of dashboards and subsystem specific notifications
 * LDMS -- provides APIs and mechanisms for low latency feedback of information to system and application processes
-* Baler -- enables exploration, and user tagging, of events and event-to-event relationships via both GUI and CLI interfaces, will be configurable to send alerts on "Conditions Of Interest" (COI) to subscribers
+* Baler -- enables user exploration, and user tagging, of events and event-to-event relationships via both GUI and CLI interfaces, will soon be configurable to send alerts on "Conditions Of Interest" (COI) to subscribers
 * LogDiver -- (what does interaction with this tool look like?)
   
