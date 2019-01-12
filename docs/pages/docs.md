@@ -7,6 +7,7 @@ subtitle: Publications, Presentations, and Links
 ** Contents **
 * TOC 
 {:toc} 
+------
 
 
 ### Publications and Presentations ###
