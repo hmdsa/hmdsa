@@ -15,10 +15,10 @@ Data Collection Tools:
 * A
 
 Storage Tools:
-* B
+* B (NCSA suite of tools that do data management here - doc from Mike?)
 
 Analysis Tools:
-* A (on the particular pages, put an example of the analysis and what you get back)
+* A (on the particular pages, put an example of the analysis and what you get back. Can x-ref with the analysis and/or insights page)
 
 Feedback and Visualization Tools:
-* C
+* C (Any additional references to dashboards, torus viewers, mike's graphs etc)
