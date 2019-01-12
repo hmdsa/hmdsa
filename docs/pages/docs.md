@@ -3,6 +3,7 @@ layout: page
 title: Documentation
 subtitle: Publications, Presentations, and Links
 ---
+### Table of Contents ###
 * TOC
 {:toc}
 
