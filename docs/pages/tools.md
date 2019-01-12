@@ -12,7 +12,7 @@ TODO:
 
 
 Data Collection Tools:
-* Lightweight Distributed Metric Service (LDMS) -- gathers numeric data and provides a variety of transport and storage options.
+* Lightweight Distributed Metric Service ([LDMS](./ldms.md)) -- gathers numeric data and provides a variety of transport and storage options.
 * Mike Showerman's Lustre probe -- periodically probes, stores, and displays, the latency involved in performing Lustre meta-data and storage operations for identification of problems.
 * Physical plant?
 * Baler -- aggregates log data and associated "patterns" into a distributed database 
