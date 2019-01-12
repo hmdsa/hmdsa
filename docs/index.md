@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HMDSA
+subtitle: Actionable Intelligence for Exascale
 gh-repo: hmdsa/hmdsa
 gh-badge: [star, watch, follow]
 ---
