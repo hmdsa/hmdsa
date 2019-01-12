@@ -4,10 +4,8 @@ title: Documentation
 subtitle: Publications, Presentations, and Links
 ---
 
-* TOC
-{:toc: macro}
-{:toc-title: Table of Contents}
-{:toclevels: 3}
+**Table of Contents**
+{:toc}
 
 ### Publications and Presentations ###
 * *Holistic Measurement-Driven System Assessment (HMDSA)*. ECP Annual Meeting (Poster) Jan 2019. 
