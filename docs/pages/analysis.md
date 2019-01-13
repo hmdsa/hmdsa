@@ -10,4 +10,4 @@ HMDSA uses a variety of Machine Learning and Expert-driven analyses and techniqu
 
 
 ### For more information ###
-A number of HMDSA and collaborative publications are available from the [publications list](./docs.md)
+A number of HMDSA and collaborative publications are available from the [Documentation](./docs.md)
