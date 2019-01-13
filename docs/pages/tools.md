@@ -23,7 +23,7 @@ HMDSA Tools provide a variety of capabilities:
 
 ### Analysis Tools ###
 * Machine Learning (ML) based tools for runtime analysis:
-  * [Clustering and Classification techniques](./analysis.md) -- extracting regions of interest and characterizing them in terms of severity and duration
+  * [Clustering and Classification techniques](./analysis.md) -- extracting regions of interest and characterizing them in terms of severity, extent, and duration
   * [Inferential techniques](./analysis.md) -- probabilitistic determination of root causes and relationships
   * [LogDiver](./tools/logdiver.md) -- identifies probabilistic relationships between log events
   * [Baler](./tools/baler.md) -- identifies and tags uniuqe patterns of "tokens" associated with log messages, discovers spatio-temporal correlative relationships between tagged events
