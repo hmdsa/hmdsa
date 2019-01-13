@@ -4,7 +4,7 @@ title: Lightweight Distributed Metric Service (LDMS)
 subtitle: High-Fidelity, Whole System, Synchonized Data Collection and Transport
 ---
 
-LDMS provides an unprecedented ability to collect system data at resolutions necessary for detecting features and events of interest and to respond on meaningful timescales. Key features of LDMS are described here.
+LDMS provides an unprecedented ability to collect system data at resolutions necessary for detecting features and events of interest and to respond on meaningful timescales. Key features:
 
 ### Features of LDMS Data that Facilitate Analysis ###
 
