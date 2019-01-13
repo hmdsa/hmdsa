@@ -13,4 +13,4 @@ Typical log data tools rely on regular expression (or grep) matching, which requ
 
 ### For more information ###
 * *[Baler: Deterministic, lossless log message clustering tool](https://ovis.ca.sandia.gov/index.php/Publications_and_presentations)* N. Taerat, J. Brandt, A. Gentile, M. Wong, and C. Leangsuksun. In: Computer Science - Research and Development Volume 26, Numbers 3-4, 285-295, DOI: 10.1007/s00450-011-0155-3 Int'l. Supercomputing Conference (ISC). June 2011.
-
+* *[New Systems, New Behaviors, New Patterns: Monitoring Insights from System Standup](https://ovis.ca.sandia.gov/index.php/Publications_and_presentations)* J. Brandt, A. Gentile, C. Martin, J. Repik, and N. Taerat Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)  at IEEE Int'l. Conf. on Cluster Computing (CLUSTER) Sept 2015.
