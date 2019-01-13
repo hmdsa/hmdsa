@@ -12,13 +12,13 @@ subtitle: HMDSA Design and Architecture
 
 #### Components: ####
 ##### Data Collection: #####
-* Lightweight Distributed Metric Service (LDMS) - data collection and transport. Run-time tunable fidelity (including subsecond) with no adverse  impact on application performance
+* Lightweight Distributed Metric Service ([LDMS](./tools/LDMS.md)) - data collection and transport. Run-time tunable fidelity (including subsecond) with no adverse  impact on application performance
 * Collectors for application and platform data and integration of external collection (e.g. kokkos)
 
 ##### Analysis: #####
 * Streaming analysis and active feedback capabilities
-* Integrated System Console (ISC) - analytics database, retrieval and display
-* LogDiver+Baler - event tagging and relationship discovery
+* Integrated System Console ([ISC](./tools/ISC.md)) - analytics database, retrieval and display
+* [LogDiver](./tools/LogDiver.md)+[Baler](./tools/Baler.md) - event tagging and relationship discovery
 * A variety of analysis tools including ML/AI based tools for identification
 
 ##### Actionable Intelligence: #####
