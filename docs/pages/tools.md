@@ -23,17 +23,17 @@ HMDSA Tools provide a variety of capabilities:
 
 ### Analysis Tools ###
 * Machine Learning (ML) based tools for runtime analysis:
-  * Clustering and Classification techniques -- extracting regions of interest and characterizing them in terms of severity and duration
-  * Inferential techniques -- probabilitistic determination of root causes and relationships
+  * [Clustering and Classification techniques](./analysis.md) -- extracting regions of interest and characterizing them in terms of severity and duration
+  * [Inferential techniques](./analysis.md) -- probabilitistic determination of root causes and relationships
   * [LogDiver](./tools/logdiver.md) -- identifies probabilistic relationships between log events
   * [Baler](./tools/baler.md) -- identifies and tags uniuqe patterns of "tokens" associated with log messages, discovers spatio-temporal correlative relationships between tagged events
   * [LDMS](./tools/ldms.md) -- provides capability for performing a variety of analytics on data along the transport path
 <!-- -- the HMDSA team has collaborative partnerships to develop ML based tools to perform a variety of runtime analyses. These include: -->
 * ML collaborative partnerships:
-  * Collaboration with Boston University (BU) working on developing ML based methods for runtime identification and diagnosis of a variety of performance degrading anomalies [cite papers here] using a variety of system monitoring data
+  * Collaboration with Boston University (BU) working on developing ML based methods for runtime identification and diagnosis of a variety of [performance degrading anomalies](./analysis.md) using a variety of system monitoring data
   * Collaborations with New Mexico State University (NMSU) and other SNL staff working on developing application profiling metrics
-  * A multi-site collaborative effort that continuously determines and presents *figures of merit* for all system, subsystem, and performance metrics (e.g., network congestion state, communication performance) to enable comparison and diagnosis of job performance
-  * The Blue Waters Project has an ongoing effort to architect and study ML models that process a system’s monitoring and usage data to create a mixture of descriptive, predictive, and prescriptive analysis to assist systems managers and performance experts with near real time monitoring and diagnostics.
+  * A multi-site collaborative effort that continuously determines and presents *[figures of merit](./analysis.md)* for all system, subsystem, and performance metrics (e.g., network congestion state, communication performance) to enable comparison and diagnosis of job performance
+  * The Blue Waters Project has an ongoing effort to architect and study ML models that process a system’s monitoring and usage data to create a mixture of [descriptive, predictive, and prescriptive analysis](./analysis.md) to assist systems managers and performance experts with near real time monitoring and diagnostics.
 
 
 
