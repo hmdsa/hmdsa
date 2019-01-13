@@ -4,6 +4,7 @@ title: Baler
 subtitle: Baler: Log Pattern Extraction
 ---
 
+
 ### temp ###
 System Events can result in millions of log lines. The possible lines are unknown in advance and may change with new system software:
 ![Millions of Log Lines](./resources/figs/Baler_Lines.png){:width="720px"}{: .center-image}
