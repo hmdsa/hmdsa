@@ -10,7 +10,7 @@ gh-badge: [star, watch, follow]
 The Holistic Measurement Driven System Assessment (HMDSA) project is designed to enable maximum science production for large-scale high performance computing (HPC) facilities, independent of major component vendor, and within budget constraints of money, space, and power. We accomplish this through development and deployment of scalable, platform-independent, open-source tools and techniques for monitoring, coupled with runtime analysis and feedback, which enables highly efficient HPC system operation and usage and also informs future system improvements. 
 
 We take a holistic approach through: 
-* Monitoring of all performance impacting information (e.g., atmospheric conditions, physical plant, HPC system components) with flexible frameworks for variable fidelity data collection to minimize application and/or system overhead, 
+* Monitoring of all performance impacting information (e.g., atmospheric conditions, physical plant, HPC system components, application resource utilization) in with flexible frameworks for variable fidelity data collection to minimize application and/or system overhead, 
 * Developing scalable storage, retrieval, and run-time analytics to provide identification of performance impacting behaviors, 
 * Developing feedback and problem (e.g., faults, resource depletion, contention) mitigation strategies and mechanisms targeting applications, system software, hardware, and users.
 
