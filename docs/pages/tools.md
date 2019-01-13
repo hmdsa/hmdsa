@@ -11,11 +11,6 @@ subtitle: HMDSA tools
 
 HMDSA Tools provide a variety of capabilities:
 
-TODO: 
-1) put high-level list of the tools and their capabilities to be put in here - 1 sentence or so
-2) then put links to per-tool pages for more detail
-
-
 ### Data Collection Tools ###
 * Lightweight Distributed Metric Service ([LDMS](./tools/ldms.md)) -- gathers numeric data and provides a variety of transport and storage options.
 * Mike Showerman's Lustre probe -- periodically probes, stores, and displays, the latency involved in performing Lustre meta-data and storage operations for identification of problems.
