@@ -4,7 +4,7 @@ title: Baler
 subtitle: Log Pattern Extraction
 ---
 
-System Events can result in millions of log lines. The possible lines are unknown in advance and may change with new system software:
+System Events can result in millions of log lines. The possible lines are unknown in advance, may arise only with rare significant events, and may change with new system software:
 ![Millions of Log Lines](../resources/figs/Baler_Lines.png){:width="720px"}{: .center-image} 
 
 Typical log data tools rely on regular expression (or grep) matching, which requires advance knowledge of log lines in order to build the regular expression. Baler extracts patterns deterministically from log lines, with no advance information required. This results in a vastly smaller number of patterns to parse, and patterns cane be compared across systems.
