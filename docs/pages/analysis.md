@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analysis
-subtitle: HMDSA analysis architecture
+subtitle: HMDSA Analysis Architecture
 ---
 
 HMDSA uses a variety of Machine Learning and Expert-driven analyses and techniques on platform, [application](./tools/applicationdata.md), and facilities data to determine [actionable information](./insights.md):
