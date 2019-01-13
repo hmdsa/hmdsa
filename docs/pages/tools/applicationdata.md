@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Application Data-based Profiling
-subtitle: Application Data Enables Performance Understanding in Conjunction with the Platform
+subtitle: Application data enables performance understanding in conjunction with the platform
 ---
 
 ![Application Performance Counters](../resources/figs/fig_papi.png){:width="720px"}{: .center-image}
@@ -14,6 +14,8 @@ subtitle: Application Data Enables Performance Understanding in Conjunction with
 
 Slides from *Runtime HPC System and Application Performance Assessment and Diagnostics* CODA 2018.
 Application Profiling and Analysis work in collaboration with SNL, NMSU, and BU.
+
+Application, system, and subsystem performance can be assessed as *[figures of merit](../insights.md)* which provide at-a-glance understanding of all conditions, for running and historical jobs, in a dashboard.
 
 
 ### For more information ###
