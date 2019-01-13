@@ -8,11 +8,11 @@ LDMS provides an unprecedented ability to collect system data at resolutions nec
 
 ### No significant application impact ###
 LDMS has been shown to have no significant impact on applications at collection rates (1Hz) necessary for resolving resource utilization features. This is enabled by:
-**Optimized data structures** - data and metadata in memory are laid out to enable efficient data access. Metadata is only transported upon change, with most aggregation consisting of only the data values, which are smaller in size.
+* **Optimized data structures** - data and metadata in memory are laid out to enable efficient data access. Metadata is only transported upon change, with most aggregation consisting of only the data values, which are smaller in size.
 
-**Small, bounded footprint** - data is stored on-node in a user-specified memory region. This can be set to store only the most data sample in order to minimize the memory footprint.
+* **Small, bounded footprint** - data is stored on-node in a user-specified memory region. This can be set to store only the most data sample in order to minimize the memory footprint.
 
-**Efficient transport** - LDMS supports multiple transports including RDMA, IB, and socket. RDMA enables fetch with minimal CPU interruption. 
+* **Efficient transport** - LDMS supports multiple transports including RDMA, IB, and socket. RDMA enables fetch with minimal CPU interruption. 
 
 ### Synchronized system snapshots ###
 LDMS enables coherent whole-system analysis by collecting data as synchronized *snapshots* across the system. Data on all components is collected at the same time relative to each component's clock.
