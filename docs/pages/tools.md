@@ -32,7 +32,7 @@ HMDSA Tools provide a variety of capabilities:
 * ML collaborative partnerships:
   * Collaboration with Boston University (BU) working on developing ML based methods for runtime identification and diagnosis of a variety of [performance degrading anomalies](./applicationdata.md) using a variety of system monitoring data
   * Collaborations with New Mexico State University (NMSU) and other SNL staff working on developing [application profiling metrics](./tools/applicationdata.md)
-  * A multi-site collaborative effort that continuously determines and presents *[figures of merit](./applicationdata.md)* for all system, subsystem, and performance metrics (e.g., network congestion state, communication performance) to enable comparison and diagnosis of job performance
+  * A multi-site collaborative effort that continuously determines and presents *[figures of merit](./insights.md)* for all system, subsystem, and performance metrics (e.g., network congestion state, communication performance) to enable comparison and diagnosis of job performance
   * The Blue Waters Project has an ongoing effort to architect and study ML models that process a system’s monitoring and usage data to create a mixture of [descriptive, predictive, and prescriptive analysis](./analysis.md) to assist systems managers and performance experts with near real time monitoring and diagnostics.
 
 
