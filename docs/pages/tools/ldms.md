@@ -11,7 +11,6 @@ subtitle: High-Fidelity, Whole System, Synchonized Data Collection and Transport
 
 LDMS provides an unprecedented ability to collect system data at resolutions necessary for detecting features and events of interest and to respond on meaningful timescales. 
 
-![LDMS Network Congestion Data](../resources/figs/Cube.png){:width="680px"}{: .center-image}
 
 ### Features of LDMS Data that Facilitate Analysis ###
 
@@ -19,6 +18,8 @@ LDMS provides an unprecedented ability to collect system data at resolutions nec
 * **Synchronized system snapshots** - In order to get a coherent picture of conditions, the data must be collected at effectively the same time across possibly tens of thousands of disparate components.
 * **High-fidelity data** - High-fidelity data is needed to detect and resolve features and events of interest, such as the evolution of network congestion and I/O usage profiles
 * **Run time data collection and transport** - Run time data collection and transport enables analysis while applications are running and while the system is experiencing conditions of interest. Thus, problems can be discovered early and remediative action can be taken. Post-processing analysis does not solve problems as they occur and is rarely performed in practice. 
+
+![LDMS Network Congestion Data](../resources/figs/Cube.png){:width="680px"}{: .center-image}
 
 ### Architectural Details of LDMS ###
 * **No significant application impact** - LDMS has been shown to have no significant impact on applications at collection rates (1Hz) necessary for resolving resource utilization features. This is enabled by:
