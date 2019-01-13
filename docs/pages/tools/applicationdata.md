@@ -4,6 +4,8 @@ title: Application Data-based Profiling
 subtitle: Application data enables performance understanding in conjunction with the platform
 ---
 
+Application data is collected in conjunction with platform and facilities data. Integrated analysis provides insights into whether [performance variation is due to application changes or system conditions](../insights.md). Higher-order *[figures of merit](../insights.md)* provide at-a-glance understanding of all conditions, for running and historical jobs, in a dashboard.
+
 ![Application Performance Counters](../resources/figs/fig_papi.png){:width="720px"}{: .center-image}
 
 ![Application-Driven Information](../resources/figs/fig_kokkos.png){:width="720px"}{: .center-image}
@@ -15,7 +17,7 @@ subtitle: Application data enables performance understanding in conjunction with
 Slides from *Runtime HPC System and Application Performance Assessment and Diagnostics* CODA 2018.
 Application Profiling and Analysis work in collaboration with SNL, NMSU, and BU.
 
-Application, system, and subsystem performance can be assessed as *[figures of merit](../insights.md)* which provide at-a-glance understanding of all conditions, for running and historical jobs, in a dashboard.
+
 
 
 ### For more information ###
