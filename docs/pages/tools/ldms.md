@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LDMS
-subtitle: Lightweight Distributed Metric Service
+title: Lightweight Distributed Metric Service (LDMS)
+subtitle: High-Fidelity, Whole System, Synchonized Data Collection and Transport
 ---
 
 ### For more information ###
