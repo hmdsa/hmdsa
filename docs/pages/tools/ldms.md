@@ -9,7 +9,7 @@ subtitle: High-Fidelity, Whole System, Synchonized Data Collection and Transport
 {:toc} 
 ------
 
-LDMS provides an unprecedented ability to collect system data at resolutions necessary for detecting features and events of interest and to respond on meaningful timescales. Key features:
+LDMS provides an unprecedented ability to collect system data at resolutions necessary for detecting features and events of interest and to respond on meaningful timescales. 
 
 ### Features of LDMS Data that Facilitate Analysis ###
 
