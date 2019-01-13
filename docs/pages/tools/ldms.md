@@ -17,7 +17,7 @@ LDMS provides an unprecedented ability to collect system data at resolutions nec
 * **Run time data collection and transport** - Run time data collection and transport enables analysis while applications are running and while the system is experiencing conditions of interest. Thus, problems can be discovered early and remediative action can be taken. Post-processing analysis does not solve problems as they occur and is rarely performed in practice. 
 
 ### Architectural Details of LDMS ###
-* ** No significant application impact ** - LDMS has been shown to have no significant impact on applications at collection rates (1Hz) necessary for resolving resource utilization features. This is enabled by:
+* **No significant application impact** - LDMS has been shown to have no significant impact on applications at collection rates (1Hz) necessary for resolving resource utilization features. This is enabled by:
   * **Optimized data structures** - data and metadata in memory are laid out to enable efficient data access. Metadata is only transported upon change, with most aggregation consisting of only the data values, which are smaller in size.
 
   * **Small, bounded footprint** - data is stored on-node in a user-specified memory region. This can be set to store only the most data sample in order to minimize the memory footprint.
@@ -29,7 +29,7 @@ LDMS provides an unprecedented ability to collect system data at resolutions nec
   * **Adding collectors and directing data to your data stores is easy ** - 
 LDMS is easily extensible. Its plugin architecture makes the creation of additional samplers and stores simple and encapsulated. In addition, store plugins enable easy direction of LDMS output to different formats and consumers.
 
-  * ** Platform Independent ** - LDMS can run on all *nix OS
+  * **Platform Independent** - LDMS can run on all *nix OS
 
 ### For more information ###
 * *[Lightweight Distributed Metric Service (LDMS)](https://github.com/ovis-hpc/ovis)* 
