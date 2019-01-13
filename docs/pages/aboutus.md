@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: The essentials
+subtitle: The Essentials
 ---
 
 ### Team ###
