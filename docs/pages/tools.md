@@ -25,6 +25,7 @@ HMDSA Tools provide a variety of capabilities:
 * Machine Learning (ML) based tools -- the HMDSA team has collaborative partnerships to develop ML based tools to perform a variety of runtime analyses. These include:
   * a team at Boston University (BU) working on developing ML based methods for runtime identification and diagnosis of a variety of performance degrading anomalies [cite papers here] using a variety of system monitoring data
   * a team at New Mexico State University (NMSU) and SNL collaborators working on developing application profiling metrics
+  * a multi-site collaborative effort that continuously determines and presents *figures of merit* for all system, subsystem, and performance metrics (e.g., network congestion state, communication performance) to enable comparison and diagnosis of job performance
   * The Blue Waters Project has an ongoing effort to architect and study ML models that process a system’s monitoring and usage data to create a mixture of descriptive, predictive, and prescriptive analysis to assist systems managers and performance experts with near real time monitoring and diagnostics.
 * [LogDiver](./tools/logdiver.md) -- identifies probabilistic relationships between log events
 * [Baler](./tools/baler.md) -- identifies and tags uniuqe patterns of "tokens" associated with log messages, discovers spatio-temporal correlative relationships between tagged events
