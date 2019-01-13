@@ -12,7 +12,7 @@ subtitle: HMDSA tools
 HMDSA Tools provide a variety of capabilities:
 
 ### Data Collection Tools ###
-* Lightweight Distributed Metric Service ([LDMS](./tools/ldms.md)) -- gathers numeric data, including platform, application, and facilities data, and provides a variety of transport and storage options.
+* Lightweight Distributed Metric Service ([LDMS](./tools/ldms.md)) -- gathers numeric data, including platform, [application](./tools/applicationdata.md), and facilities data, and provides a variety of transport and storage options.
 * System probes -- periodically probes, stores, and displays performance and state information, such as the latency involved in performing Lustre meta-data and storage operations for identification of problems.
 <!-- * Physical plant? -->
 * [Baler](./tools/baler.md) -- aggregates log data and associated "patterns" into a distributed database 
@@ -31,7 +31,7 @@ HMDSA Tools provide a variety of capabilities:
 <!-- -- the HMDSA team has collaborative partnerships to develop ML based tools to perform a variety of runtime analyses. These include: -->
 * ML collaborative partnerships:
   * Collaboration with Boston University (BU) working on developing ML based methods for runtime identification and diagnosis of a variety of [performance degrading anomalies](./analysis.md) using a variety of system monitoring data
-  * Collaborations with New Mexico State University (NMSU) and other SNL staff working on developing application profiling metrics
+  * Collaborations with New Mexico State University (NMSU) and other SNL staff working on developing [application profiling metrics](./tools/applicationdata.md)
   * A multi-site collaborative effort that continuously determines and presents *[figures of merit](./analysis.md)* for all system, subsystem, and performance metrics (e.g., network congestion state, communication performance) to enable comparison and diagnosis of job performance
   * The Blue Waters Project has an ongoing effort to architect and study ML models that process a system’s monitoring and usage data to create a mixture of [descriptive, predictive, and prescriptive analysis](./analysis.md) to assist systems managers and performance experts with near real time monitoring and diagnostics.
 
