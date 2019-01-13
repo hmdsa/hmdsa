@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Log Diver
-subtitle: Discover probabilistic relationships between log events
+subtitle: Discover Probabilistic Relationships Between Log Events
 ---
 
 *More information coming soon*
