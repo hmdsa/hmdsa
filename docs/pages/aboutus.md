@@ -4,7 +4,7 @@ title: About Us
 subtitle: The Essentials
 ---
 
-![Team](resources/figs/Team.png){:width="620px"}{: .center-image}
+![Team](resources/figs/Team.png){:width="540px"}{: .center-image}
 
 ### Team ###
 * PI: Bill Kramer (NCSA/UIUC) <!-- - Director Blue Waters and CS Research Professor -->
