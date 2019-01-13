@@ -11,6 +11,8 @@ subtitle: High-Fidelity, Whole System, Synchonized Data Collection and Transport
 
 LDMS provides an unprecedented ability to collect system data at resolutions necessary for detecting features and events of interest and to respond on meaningful timescales. 
 
+![LDMS Network Congestion Data](../resources/figs/Cube.png){:width="720px"}{: .center-image}
+
 ### Features of LDMS Data that Facilitate Analysis ###
 
 * **Whole system data** - Full system data enables investigation of effects of conditions which cannot be understood from the data accessible from an application's perspective alone. For example, in shared networks conditions along the communication routes will affect the application's performance. That data is not available from the application's allocation.
