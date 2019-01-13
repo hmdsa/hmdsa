@@ -19,7 +19,7 @@ LDMS provides an unprecedented ability to collect system data at resolutions nec
   * **Small, bounded footprint** - data is stored on-node in a user-specified memory region. This can be set to store only the most data sample in order to minimize the memory footprint.
   * **Efficient transport** - LDMS supports multiple transports including RDMA, IB, and socket. RDMA enables fetch with minimal CPU interruption. 
   * **Flexible transport topology with high fan-in** - LDMS can collect and transport data on large node-count systems, with only a few aggregation points required. Multiple transports can be combined -- for instance data can be aggregated from compute nodes via RDMA over the high speed network and then transported off system via socket. In addition, arbitrary aggregation topologies are supported (not just tree-based) which can enable redirection and use of data anywhere, including exposure on compute nodes.
-* **Adding collectors and directing data to your data stores is easy ** - 
+* **Adding collectors and directing data to your data stores is easy** - 
 LDMS is easily extensible. Its plugin architecture makes the creation of additional samplers and stores simple and encapsulated. In addition, store plugins enable easy direction of LDMS output to different formats and consumers.
 * **Platform Independent** - LDMS can run on all *nix OS
 
