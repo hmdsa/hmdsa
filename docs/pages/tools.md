@@ -29,7 +29,7 @@ HMDSA Tools provide a variety of capabilities:
 * [Baler](./tools/baler.md) -- identifies and tags uniuqe patterns of "tokens" associated with log messages, discovers spatio-temporal correlative relationships between tagged events
 * [LDMS](./tools/ldms.md) -- provides capability for performing a variety of analytics on data along the transport path
 
-### Feedback and Visualization Tools ###
+### Tools for Feedback and Visualization of Actionable Intelligence ###
 * Integrated System Console ([ISC](./tools/ISC.md)) provides a variety of dashboards and subsystem specific notifications. The ISC operates on data in the short term store. 
 * [LDMS](./tools/ldms.md) -- provides APIs and mechanisms for low latency feedback of information to system and application processes
 * [Baler](./tools/baler.md) -- enables user exploration, and user tagging, of events and event-to-event relationships via both GUI and CLI interfaces, will soon be configurable to send alerts on "Conditions Of Interest" (COI) to subscribers
