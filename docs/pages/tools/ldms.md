@@ -11,7 +11,7 @@ subtitle: High-Fidelity, Whole System, Synchonized Data Collection and Transport
 
 LDMS provides an unprecedented ability to collect system data at resolutions necessary for detecting features and events of interest and to respond on meaningful timescales. 
 
-![LDMS Network Congestion Data](../resources/figs/Cube.png){:width="720px"}{: .center-image}
+![LDMS Network Congestion Data](../resources/figs/Cube.png){:width="680px"}{: .center-image}
 
 ### Features of LDMS Data that Facilitate Analysis ###
 
