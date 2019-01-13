@@ -13,8 +13,8 @@ HMDSA Tools provide a variety of capabilities:
 
 ### Data Collection Tools ###
 * Lightweight Distributed Metric Service ([LDMS](./tools/ldms.md)) -- gathers numeric data and provides a variety of transport and storage options.
-* Mike Showerman's Lustre probe -- periodically probes, stores, and displays, the latency involved in performing Lustre meta-data and storage operations for identification of problems.
-* Physical plant?
+* System probes -- periodically probes, stores, and displays performance and state information, such as the latency involved in performing Lustre meta-data and storage operations for identification of problems.
+<!-- * Physical plant? -->
 * Baler -- aggregates log data and associated "patterns" into a distributed database 
 
 ### Storage Tools ###
