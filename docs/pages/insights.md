@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Insights
-subtitle: HMDSA capabilities provide unique insights 
+subtitle: HMDSA Capabilities Provide Unique Insights 
 ---
 
 HMDSA builds tools and techniques for answering key questions of interest to Users, System Managers and Support Staff, and Architects and Acquistions Teams:
