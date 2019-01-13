@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Baler
-subtitle: Baler - Log Pattern Extraction
+subtitle: Log Pattern Extraction
 ---
 
 
