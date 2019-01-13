@@ -26,3 +26,6 @@ subtitle: The Essentials
 * New Mexico State University (NMSU)
 * Boston University (BU)
 * University of Central Florida (UCF)
+
+### Contact ###
+Email: hmdsa at ncsa.illinois.edu
