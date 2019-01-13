@@ -23,12 +23,12 @@ HMDSA Tools provide a variety of capabilities:
 
 ### Analysis Tools ###
 * Machine Learning (ML) based tools for runtime analysis:
-<!-- -- the HMDSA team has collaborative partnerships to develop ML based tools to perform a variety of runtime analyses. These include: -->
   * Clustering and Classification techniques -- extracting regions of interest and characterizing them in terms of severity and duration
   * Inferential techniques -- probabilitistic determination of root causes and relationships
   * [LogDiver](./tools/logdiver.md) -- identifies probabilistic relationships between log events
   * [Baler](./tools/baler.md) -- identifies and tags uniuqe patterns of "tokens" associated with log messages, discovers spatio-temporal correlative relationships between tagged events
   * [LDMS](./tools/ldms.md) -- provides capability for performing a variety of analytics on data along the transport path
+<!-- -- the HMDSA team has collaborative partnerships to develop ML based tools to perform a variety of runtime analyses. These include: -->
 * ML collaborative partnerships:
   * Collaboration with Boston University (BU) working on developing ML based methods for runtime identification and diagnosis of a variety of performance degrading anomalies [cite papers here] using a variety of system monitoring data
   * Collaborations with New Mexico State University (NMSU) and other SNL staff working on developing application profiling metrics
