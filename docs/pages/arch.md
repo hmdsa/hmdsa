@@ -18,7 +18,7 @@ subtitle: HMDSA Design and Architecture
 ##### Analysis: #####
 * Streaming analysis and active feedback capabilities
 * Integrated System Console ([ISC](./tools/ISC.md)) - analytics database, retrieval and display
-* [LogDiver](./tools/LogDiver.md)+[Baler](./tools/baler.md) - event tagging and relationship discovery
+* [LogDiver](./tools/logdiver.md)+[Baler](./tools/baler.md) - event tagging and relationship discovery
 * A variety of analysis tools including ML/AI based tools for identification
 
 ##### Actionable Intelligence: #####
