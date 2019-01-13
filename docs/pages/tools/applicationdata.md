@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Application Data-based Profiling
-subtitle: Application data enables performance understanding in conjunction with the platform
+subtitle: Application and Platform Data Integrated for Performance Understanding
 ---
 
 Application data is collected in conjunction with platform and facilities data. Integrated analysis provides insights into whether [performance variation is due to application changes or system conditions](../insights.md). Higher-order *[figures of merit](../insights.md)* provide at-a-glance understanding of all conditions, for running and historical jobs, in a dashboard.
