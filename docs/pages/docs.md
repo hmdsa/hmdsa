@@ -11,7 +11,7 @@ subtitle: Publications, Presentations, and Links
 
 
 ### Publications and Presentations ###
-* *Holistic Measurement-Driven System Assessment (HMDSA)*. ECP Annual Meeting (Poster) Jan 2019. 
+* *[Holistic Measurement-Driven System Assessment (HMDSA)](./resources/figs/ECP_Kramer_poster_fin.pdf)*. ECP Annual Meeting (Poster) Jan 2019. 
 * *Monitoring Large-Scale HPC Systems: Extracting and Presenting Meaningful System and Application Insights*. SC18, Nov 2018. BoF Session Organizer. 
 * *[Holistic Measurement-Driven System Assessment](../files/pdf/HMDSA.20180420.pdf)*. W. Kramer. April 2018.
 * *[Holistic Measurement-Driven System Assessment](http://sjha8.web.engr.illinois.edu/publication/hmdsa/)*. S. Jha, J. Brandt, A. Gentile, Z. Kalbarczyk, G. Bauer, J. Enos, M. Showerman, L. Kaplan, B. Bode, A. Greiner, A. Bonnie, M. Mason, R. Iyer, and W. Kramer. Workshop on Monitoring and Analysis of High Performance Computing Systems Plus Applications (HPCMASPA) at IEEE Int'l. Conf. on Cluster Computing (CLUSTER), Sept 2017. 
