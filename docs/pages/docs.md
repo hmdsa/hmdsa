@@ -93,6 +93,3 @@ at Euro-Par 2011, Aug 2011.
 * *[OVIS Web Site](https://ovis.ca.sandia.gov/index.php/Main_Page)*
 * *[Monitoring and Analysis of HPC Systems Plus Applications (HPCMASPA) Workshop Series](https://sites.google.com/site/hpcmaspa/)*
 
-
-
-<!-- [crap](../files/pdf/ECP_Kramer_poster_crap.pdf) -->
