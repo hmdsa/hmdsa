@@ -11,7 +11,7 @@ subtitle: Publications, Presentations, and Links
 
 
 ### Publications and Presentations ###
-* *[Machine Learning Assisted System Monitoring and Diagnostics @Scale]*. A. Saxton, M. Showerman, and Blue Waters Team Members. Information Only Preprint.
+* *Machine Learning Assisted System Monitoring and Diagnostics @Scale*. A. Saxton, M. Showerman, and Blue Waters Team Members. Information Only Preprint.
 * *[Holistic Measurement-Driven System Assessment (HMDSA)](./resources/figs/ECP_Kramer_poster_fin.pdf)*. ECP Annual Meeting (Poster) Jan 2019. 
 * *Monitoring Large-Scale HPC Systems: Extracting and Presenting Meaningful System and Application Insights*. SC18, Nov 2018. BoF Session Organizer. 
 * *[Holistic Measurement-Driven System Assessment](../files/pdf/HMDSA.20180420.pdf)*. W. Kramer. April 2018.
