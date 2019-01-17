@@ -19,8 +19,8 @@ subtitle: The Essentials
   * Ravi Iyer (ECE/CSL) <!-- - George and Ann Fisher Distinguished Professor of Engineering and Lead of the DEPEND group -->
   * Zbigniew Kalbarczyk (ECE/CSL) <!-- - Principle Research Scientist in the UI Coordinated Systems Laboratory -->
 * SNL:
-  * Jim Brandt <!-- - Distinguished Member of Technical Staff – SNL HPC Monitoring and Analysis Lead and OVIS/LDMS development lead -->
-  * Ann Gentile <!-- - Distinguished Member of Technical Staff - SNL Advanced Technologies Systems Operations Lead and HPC Monitoring and Analysis -->
+  * [Jim Brandt](https://ovis.ca.sandia.gov) <!-- - Distinguished Member of Technical Staff – SNL HPC Monitoring and Analysis Lead and OVIS/LDMS development lead -->
+  * [Ann Gentile](https://ovis.ca.sandia.gov) <!-- - Distinguished Member of Technical Staff - SNL Advanced Technologies Systems Operations Lead and HPC Monitoring and Analysis -->
 
 ### Collaborators ###
 * New Mexico State University (NMSU)
