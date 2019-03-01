@@ -17,6 +17,7 @@ subtitle: Publications, Presentations, and Links
 * *[Holistic Measurement-Driven System Assessment](../files/pdf/HMDSA.20180420.pdf)*. W. Kramer. April 2018.
 * *[Holistic Measurement-Driven System Assessment](http://sjha8.web.engr.illinois.edu/publication/hmdsa/)*. S. Jha, J. Brandt, A. Gentile, Z. Kalbarczyk, G. Bauer, J. Enos, M. Showerman, L. Kaplan, B. Bode, A. Greiner, A. Bonnie, M. Mason, R. Iyer, and W. Kramer. Workshop on Monitoring and Analysis of High Performance Computing Systems Plus Applications (HPCMASPA) at IEEE Int'l. Conf. on Cluster Computing (CLUSTER), Sept 2017. 
 * *[Failure and Resiliency in the Shadow of Extreme Scale – Will our Current Assumptions Take Us in the Right Direction?](../files/pdf/Kramer_HPCMASPA2016.pdf)* W. Kramer. Workshop on Monitoring and Analysis for HPC Systems Plus Applications (HPCMASPA) - Keynote Speaker, May 2016. 
+* *[Machine Learning with Blue Waters Monitoring Data, Status Update*](../files/pdf/ML_Monitoring_Brief_Update.pdf). A. Saxton, M. Showerman, and Blue Waters Team Members. Information Only Preprint.
 
 ### Selected Related Publications ###
 * *[A ML-based Runtime System for Executing Dataflow Graphs on Heterogeneous Processors.](https://dl.acm.org/citation.cfm?id=3275474)*. Banerjee, S. S., Athreya, A. P., Kalbarczyk, Z., Lumetta, S., & Iyer, R. K. (2018, October). A ML-based Runtime System for Executing Dataflow Graphs on Heterogeneous Processors. In Proceedings of the ACM Symposium on Cloud Computing (SOCC). ACM.
